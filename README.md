@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Men Hozir MayoqHub da ishlayabman 
-- 🌱 Mustaqil o'rganyabman :)
+- 🌱 Mustaqil qo'shimcha o'rganmoqdaman :)
 - 👯 Qo'shimcha online ishlashim kumkin 
 - 🤔 Agar siz Turk tilini bilsangiz yoki Shaxmatni yaxshi o'ynasangiz menga yaxshi sherik bo'lishingiz mumkin ;)
 - 💬 Mendan biror narsa so'ramoqchimisiz unda menga yozing ...
