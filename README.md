@@ -1,8 +1,8 @@
-# Muhammadjavohir Sur'atov
+# Abdulvahob Abdullayev
 
 Frontend dasturchi, frontend dasturlash bo'yicha o'qituvchi.
 
-[💼 Portfolio](https://frontendtester.uz) | [💬 Telegram](https://t.me/Muhammadjavohirbek) | 📧 frontendtester@yandex.ru
+[💼 Portfolio](https://Ali.uz) | [💬 Telegram](https://t.me/Muhammadjavohirbek) | 📧 abdullayevabdulvahob2002@gmail.com
 
 
 ## Texnologiyalar
@@ -34,10 +34,10 @@ Frontend dasturchi, frontend dasturlash bo'yicha o'qituvchi.
 ## Sahifalar
 
 <p align="left">
-<a href="https://linkedin.com/in/muhammadjavohir-suratov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadjavohir-suratov" height="30" width="40" /></a>
-<a href="https://fb.com/muhammadjavohir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadjavohir" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadjavohirsuratov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadjavohirsuratov" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muhammadjavohirsuratov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammadjavohirsuratov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadjavohir-suratov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali web" height="30" width="40" /></a>
+<a href="https://fb.com/muhammadjavohir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ali web" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammadjavohirsuratov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ali web" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC-sAMd1KH5SPDnJwO6pnmMA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ali web" height="30" width="40" /></a>
 </p>
 
 ## GitHub statistikasi
