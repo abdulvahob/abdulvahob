@@ -34,15 +34,15 @@ Frontend dasturchi, frontend dasturlash bo'yicha o'qituvchi.
 ## Sahifalar
 
 <p align="left">
-<a href="https://linkedin.com/in/muhammadjavohir-suratov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali web" height="30" width="40" /></a>
-<a href="https://fb.com/muhammadjavohir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ali web" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadjavohirsuratov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ali web" height="30" width="40" /></a>
+
+<a href="https://www.facebook.com/profile.php?id=100078224065602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ali web" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abdulvahob_web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ali web" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-sAMd1KH5SPDnJwO6pnmMA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ali web" height="30" width="40" /></a>
 </p>
 
 ## GitHub statistikasi
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frontendtester&show_icons=true&locale=en&layout=compact" alt="frontendtester" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvahob&show_icons=true&locale=en&layout=compact" alt="abdulvahob" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frontendtester&show_icons=true&locale=en" alt="frontendtester" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulvahob&show_icons=true&locale=en" alt="abdulvahob" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontendtester&" alt="frontendtester" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulvahob&" alt="abdulvahob" /></p>
