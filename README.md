@@ -42,7 +42,7 @@ Frontend dasturchi, frontend dasturlash bo'yicha o'qituvchi.
 
 ## GitHub statistikasi
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvahob&show_icons=true&locale=en&layout=compact" alt="abdulvahob" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulvahob&show_icons=true&locale=en" alt="abdulvahob" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulvahob&" alt="abdulvahob" /></p>
